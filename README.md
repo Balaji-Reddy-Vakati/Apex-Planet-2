@@ -1,21 +1,32 @@
-# Apex Planet Internship Project 2
+# Apex Planet Internship – Interactive Web Project
 
-## About
-This repository contains my second project/task completed as part of the Apex Planet internship program.
+## Overview
+
+An interactive web development project created as part of my Apex Planet internship.
+
+The project combines multiple frontend features into a single webpage, including a contact form, a to-do list, and a dynamic image gallery.
+
+## Features
+
+- Contact form with input validation
+- Email format validation
+- Interactive to-do list
+- Add and remove tasks dynamically
+- Dynamic image gallery
+- Responsive webpage layout
+- Navigation section
+- Interactive buttons and form handling
 
 ## Technologies Used
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
 
-## Project Work
-This project demonstrates practical web development work completed during the internship.
+## Project Structure
 
-## Key Learning
-- Frontend development
-- Web page structure and styling
-- Responsive design
-- Practical implementation of web technologies
-
-## Author
-Vakati Balaji Sumanth Krishna Reddy
+```text
+Apex-Planet-2/
+├── contact.html
+├── Screenshot 2025-06-11 141231.png
+└── README.md
